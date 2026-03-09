@@ -13,7 +13,8 @@ The server implements raw TCP sockets.
 
 
 
-![server-client-interaction](pictures/server-client-interaction.png)
+#### Running server
+![Runnign-Server](pictures/running-server.png)
 #### Implant server interaction
 ![Server-Implant-Interaction](pictures/server-client-interaction.png)
 
