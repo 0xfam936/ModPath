@@ -1,5 +1,5 @@
 # ModPath
----
+
 ModPath is an open source Linux C2 server.
 The server implements raw TCP sockets.
 
@@ -18,7 +18,7 @@ The server implements raw TCP sockets.
 #### Implant server interaction
 ![Server-Implant-Interaction](pictures/server-client-interaction.png)
 
-
+---
 ### Getting Started
 #### Requirements
 - Python 3.10+
@@ -39,7 +39,7 @@ python main.py
 ```
 list commands
 ```
-
+---
 ### License
 
 MIT License
