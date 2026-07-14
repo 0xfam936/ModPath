@@ -1,4 +1,4 @@
-# ModPath 🕷️
+# ModPath 
 
 **ModPath** is a lightweight, open-source Command and Control (C2) server designed specifically for Linux environments. Built from the ground up in Python, it leverages raw TCP sockets and asynchronous I/O to handle concurrent implant connections efficiently. 
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ModPath was built with operational security (OPSEC) and usability in mind. 
 
@@ -20,7 +20,7 @@ ModPath was built with operational security (OPSEC) and usability in mind.
 
 ---
 
-## 📸 Architecture & Previews
+## Architecture & Previews
 
 The C2 framework is split into a robust asynchronous backend and a sleek, interactive frontend for the operator.
 
@@ -32,7 +32,7 @@ The C2 framework is split into a robust asynchronous backend and a sleek, intera
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 * **OS:** Linux
@@ -41,13 +41,14 @@ The C2 framework is split into a robust asynchronous backend and a sleek, intera
 ### Installation
 
 1. Clone the repository:
-   ```bash
+ ```bash
    git clone [git@github.com:0xfam936/ModPath.git](https://github.com/0xfam936/ModPath)
    cd ModPath
 
 ```
 
 2. Set up a virtual environment (Recommended):
+
 ```bash
 python -m venv venv
 source venv/bin/activate
