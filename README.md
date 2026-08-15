@@ -93,7 +93,7 @@ start
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
@@ -122,7 +122,7 @@ ModPath is developed for **educational and authorized testing purposes only**. I
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
